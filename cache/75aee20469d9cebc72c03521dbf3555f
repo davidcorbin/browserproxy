@@ -1,0 +1,307 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+<title>Proxy Anonymity Levels - Elite, Anonymous, Transparent proxies</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="msvalidate.01" content="F9BD470E5BD97F178C18C062EAF0853E" />
+<meta name="google-site-verification" content="bMnUySWmhilzGnWxuBYuoKAB67o80BjSsHoM-BSoiHk" />
+<meta property="fb:admins" content="1219819907" />
+
+
+<link rel="canonical" href="http://www.proxynova.com/proxy-articles/proxy-anonymity-levels-explained/" />
+
+
+<!--[if lte IE 8]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<link rel="shortcut icon" href="//www.proxynova.com/favicon.ico">
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<link type="text/css" rel="stylesheet" href="/assets/combine/?f=css/proxynova.css,css/style.css,css/global.css,css/country_flags.css,css/nav_menu.css" />
+</head>
+<body>
+
+<div id="top_header"></div>
+
+<center>
+  <div id="wrapper">
+
+		<div id="social_tab">
+		  <center>
+
+				<!-- AddThis Button BEGIN -->
+				<div class="addthis_toolbox addthis_counter_style">
+				<a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
+				<br>
+				<br>
+				<a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
+				<br>
+				<br>
+				<a class="addthis_button_tweet" tw:count="vertical"></a>
+				</div>
+				<!-- AddThis Button END -->
+
+		  </center>
+		</div>
+
+    
+    <div id="header" style="margin:10px 0px;">
+    
+    
+    <center>
+      <div style="width:730px; height:90px;">
+      
+      <div id="adz_top">
+        <script type="text/javascript"><!--
+google_ad_client = "ca-pub-4660819739366379";
+/* proxy_nova_top */
+google_ad_slot = "4582654399";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+        <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+        </div>
+        
+      </div>
+      
+      </center>
+      
+    </div>
+  
+    
+    <div id="main_container">
+      <div style="background-color:#4f85bb;">
+        <ul class="navbar">
+		
+          <li><a href="//www.proxynova.com/" title="Proxy List" class="icon-home">Home</a></li>
+          
+          <li class="has-sub">
+		  
+		  <a href="//www.proxynova.com/proxy-server-list/" title="Free Proxy Server List">Proxy Server List</a>
+		  
+            <div class="dropdown" style="width:580px;">
+	
+			<div style="text-align:left;">
+				<h2>Proxy Servers by Country</h2>
+			</div>
+			  
+			  <div class="col3 clearfix"><ul><li><img src="blank.gif" class="flag flag-ar" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ar/" title="Argentinian Proxy List"> Argentina (2)</a></li><li><img src="blank.gif" class="flag flag-au" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-au/" title="Australian Proxy List"> Australia (2)</a></li><li><img src="blank.gif" class="flag flag-at" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-at/" title="Austrian Proxy List"> Austria (3)</a></li><li><img src="blank.gif" class="flag flag-br" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-br/" title="Brazilian Proxy List"> Brazil (8)</a></li><li><img src="blank.gif" class="flag flag-ca" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ca/" title="Canadian Proxy List"> Canada (8)</a></li><li><img src="blank.gif" class="flag flag-cl" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-cl/" title="Chilean Proxy List"> Chile (6)</a></li><li><img src="blank.gif" class="flag flag-cn" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-cn/" title="Chinese Proxy List"> China (273)</a></li><li><img src="blank.gif" class="flag flag-co" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-co/" title="Colombian Proxy List"> Colombia (1)</a></li><li><img src="blank.gif" class="flag flag-cz" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-cz/" title="Czech Proxy List"> Czech Republic (4)</a></li><li><img src="blank.gif" class="flag flag-ee" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ee/" title="Estonian Proxy List"> Estonia (2)</a></li><li><img src="blank.gif" class="flag flag-et" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-et/" title="Ethiopian Proxy List"> Ethiopia (2)</a></li><li><img src="blank.gif" class="flag flag-fr" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-fr/" title="French Proxy List"> France (12)</a></li><li><img src="blank.gif" class="flag flag-de" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-de/" title="German Proxy List"> Germany (25)</a></li><li><img src="blank.gif" class="flag flag-hk" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-hk/" title="Hong Konger Proxy List"> Hong Kong (6)</a></li></ul></div><div class="col3 clearfix"><ul><li><img src="blank.gif" class="flag flag-in" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-in/" title="Indian Proxy List"> India (8)</a></li><li><img src="blank.gif" class="flag flag-id" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-id/" title="Indonesian Proxy List"> Indonesia (15)</a></li><li><img src="blank.gif" class="flag flag-iq" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-iq/" title="Iraqi Proxy List"> Iraq (2)</a></li><li><img src="blank.gif" class="flag flag-it" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-it/" title="Italian Proxy List"> Italy (3)</a></li><li><img src="blank.gif" class="flag flag-jp" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-jp/" title="Japanese Proxy List"> Japan (9)</a></li><li><img src="blank.gif" class="flag flag-mo" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-mo/" title=" Proxy List"> Macau (1)</a></li><li><img src="blank.gif" class="flag flag-my" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-my/" title="Malaysian Proxy List"> Malaysia (5)</a></li><li><img src="blank.gif" class="flag flag-mx" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-mx/" title="Mexican Proxy List"> Mexico (6)</a></li><li><img src="blank.gif" class="flag flag-nl" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-nl/" title="Dutch Proxy List"> Netherlands (3)</a></li><li><img src="blank.gif" class="flag flag-pe" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-pe/" title="Peruvian Proxy List"> Peru (7)</a></li><li><img src="blank.gif" class="flag flag-pl" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-pl/" title="Polish Proxy List"> Poland (2)</a></li><li><img src="blank.gif" class="flag flag-ro" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ro/" title="Romanian Proxy List"> Romania (2)</a></li><li><img src="blank.gif" class="flag flag-ru" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ru/" title="Russian Proxy List"> Russia (10)</a></li><li><img src="blank.gif" class="flag flag-rs" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-rs/" title="Serbian Proxy List"> Serbia (2)</a></li></ul></div><div class="col3 clearfix"><ul><li><img src="blank.gif" class="flag flag-sk" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-sk/" title="Slovak Proxy List"> Slovakia (2)</a></li><li><img src="blank.gif" class="flag flag-kr" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-kr/" title="South Korean Proxy List"> South Korea (3)</a></li><li><img src="blank.gif" class="flag flag-es" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-es/" title="Spanish Proxy List"> Spain (5)</a></li><li><img src="blank.gif" class="flag flag-lk" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-lk/" title="Sri Lankan Proxy List"> Sri Lanka (1)</a></li><li><img src="blank.gif" class="flag flag-tw" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-tw/" title="Taiwanese Proxy List"> Taiwan (4)</a></li><li><img src="blank.gif" class="flag flag-th" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-th/" title="Thai Proxy List"> Thailand (15)</a></li><li><img src="blank.gif" class="flag flag-tn" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-tn/" title="Tunisian Proxy List"> Tunisia (3)</a></li><li><img src="blank.gif" class="flag flag-tr" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-tr/" title="Turkish Proxy List"> Turkey (3)</a></li><li><img src="blank.gif" class="flag flag-ua" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ua/" title="Ukrainian Proxy List"> Ukraine (2)</a></li><li><img src="blank.gif" class="flag flag-ae" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ae/" title="Emirati, Emirian Proxy List"> United Arab Emirates (5)</a></li><li><img src="blank.gif" class="flag flag-gb" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-gb/" title="British Proxy List"> United Kingdom (19)</a></li><li><img src="blank.gif" class="flag flag-us" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-us/" title="American Proxy List"> United States (98)</a></li><li><img src="blank.gif" class="flag flag-uy" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-uy/" title="Uruguayan Proxy List"> Uruguay (4)</a></li><li><img src="blank.gif" class="flag flag-ve" border="0"><a href="http://www.proxynova.com/proxy-server-list/country-ve/" title="Venezuelan Proxy List"> Venezuela (10)</a></li></ul></div>			  
+			  <!--- the end --->
+            </div>
+			
+          </li>
+          
+			<li><a href="//www.proxynova.com/web-proxy-list/" title="Proxy List">Web Proxy List</a></li>
+			
+			<li><a href="//www.proxynova.com/online-proxy-checker/" title="Check Proxy Online">Online Proxy Checker</a></li>
+			  
+			<li><a href="//www.proxynova.com/proxy-articles/" title="Information about Proxy Servers">Proxy Articles</a></li>
+			
+			<li><a href="//www.proxynova.com/proxy-software/">Proxy Software</a></li>
+
+        </ul>
+      </div>
+	  
+      <div id="page_contents">
+	  
+	  <!--- begin page contents --->
+	  
+        
+<meta name="keywords" content="proxy level, proxy anonymity, elite proxy, anonymous proxy, transparent proxy">
+
+<h1>Proxy Anonymity Levels</h1>
+
+<p>Most proxy list providers and software applications categorize proxy servers into three categories depending
+on the level of anonymity that proxy server provides. Usually these categories go from Level 1 to Level 3.
+Proxies marked as <strong>Level 1</strong> indicate the level of highest possible anonymity a proxy could have, and <strong>Level 3</strong> indicate the lowest.
+Some proxy lists label their categories differently, for example, Level 1 proxies are usually called
+<strong>Elite proxies</strong> or something even <strong>High Anonymous proxies</strong>. Level 2 proxies are typically named <strong>Anonymous Proxies</strong>, 
+and Level 3 proxies are known as <strong>Transparent Proxies</strong>.
+
+</p>
+
+<p>
+
+The only way to hide your identity from the target server is to pass your request through
+ an intermediary - a middle-man - who will make the request on behalf of you and forward it back to you. This is the basic concept of a proxy server.
+When a client is using a proxy, all of his requests are sent to a proxy server(intermediary) instead, 
+ who then fetches the requested resource on a client's behalf and returns it back to him.
+ 
+ Whether that proxy server forwards additional information to a target server 
+ 
+ such as identifying itself as a proxy server or revealing client's IP address 
+ 
+
+  is what determines the level of anonymity that that proxy has.
+  
+</p>
+
+
+<h2>Transparent Proxies (Level 3)</h2>
+
+<p>
+<a href="http://www.proxynova.com/proxy-server-list/transparent-proxies/" class="bold">Transparent proxies</a> 
+are the type of proxies that forward 
+ detailed information about you including your IP address to the target server you are connecting to, thus it provides almost no level of anonymity. 
+ Such proxies
+  are also known as <strong>caching proxies</strong> because their intended purpose
+  is to cache the data that is exchanged between the servers in order to speed up the Internet within the organization.
+ </p>
+ 
+ <p>
+ Transparent proxies are not entirely useless for all purposes, because your IP address is still technically "hidden"
+  from the target server, it's just that it would be very easy for them to find it out.
+  For example, let's pretend you are using 
+  a transparent proxy which has an IP address of <span style="color:blue; font-weight:bold;">123.123.123.123</span> 
+  and your real IP address was <span style="color:red; font-weight:bold;">69.164.218.141</span>. 
+  In that situation, this is how your request would appear to a target server:
+  
+  </p>
+  
+  <pre>
+...
+HTTP_X_PROXY_ID = 1522885065
+HTTP_VIA = 1.1 <span style="color:blue; font-weight:bold;">123.123.123.123</span> (Mikrotik HttpProxy), 1.1 proxy4.wasantara.net.id (squid/3.2.2)
+HTTP_X_FORWARDED_FOR = <span style="color:red; font-weight:bold;">69.164.218.141</span>, 202.159.95.218
+HTTP_CONNECTION = keep-alive
+REMOTE_ADDR = <span style="color:blue; font-weight:bold;">123.123.123.123</span>
+...
+  </pre>
+  
+  <p>
+  
+
+  As you can see, the proxy first identifies itself as a <strong>Mikrotik HttpProxy</strong> by sending an additional <strong>HTTP_VIA</strong> header
+  
+  the variable <strong>REMOTE_ADDR</strong> which holds the IP address of a visitor
+  instead shows the IP of a proxy, however it does store your real IP address inside other header variables, 
+  in this case it's inside <strong>HTTP_X_FORWARDED_FOR</strong>. 
+</p>
+
+
+
+
+
+<h2>Anonymous Proxies (Level 2)</h2>
+
+<p>
+<a href="http://www.proxynova.com/proxy-server-list/anonymous-proxies/" class="bold">Anonymous Proxies</a> 
+
+or sometimes known as <strong>distorting proxies</strong>
+
+can provide a sufficient level of anonymity and are thus considered to 
+be useful for most purposes.
+This type of proxy does not reveal your IP address to a server, however 
+the server will know that the connection was made through a proxy 
+because of the additional information that is sent with each request.
+Anonymous Proxies usually identify themselves by attaching additional headers to each request such as:
+ 
+<pre>
+HTTP_CLIENT_IP = ...
+HTTP_X_FORWARDED_FOR = ...
+HTTP_X_FORWARDED = ...
+HTTP_X_CLUSTER_CLIENT_IP = ...
+HTTP_FORWARDED_FOR = ...
+HTTP_FORWARDED = ...
+</pre>
+
+In order for a proxy to be anonymous, none of those headers should contain your real IP address
+ otherwise such proxy isn't considered to be anonymous, and instead it is a transparent proxy.
+ 
+</p>
+
+
+
+
+<h2>Elite Proxies (Level 1)</h2>
+
+<p>
+<a href="http://www.proxynova.com/proxy-server-list/elite-proxies/" class="bold">Elite or High Anonymity Proxies</a> are considered 
+to be the best
+because they provide the absolute highest level of anonymity.
+ When using this type of proxy, the server you are connecting to has no idea
+  that the connection was made through a proxy nor does it know your real IP address.
+</p>		
+		<!--- page contents end --->
+      </div>
+	  
+    </div>
+    <div id="footer">
+	
+      <div style="float:left;">
+	  
+		<a href="http://www.proxynova.com" title="Proxy Server List">&copy; 2011-2014 ProxyNova.com</a>
+		
+	  </div>
+
+	 
+      <div style="float:right;"> 
+	  
+		  <ul class="list-inline">
+			  <li>
+			  <a href="https://unblockvideos.com/" title="Unblock Video Websites such as YouTube and DailyMotion">Unblock YouTube using a Web Proxy</a>
+			  </li>
+			  
+			  <li>
+			  <a href="//www.scape-xp.com" title="Runescape calculators and other Runescape tools" target="_blank">Runescape Calculators</a> 
+			  </li>
+		  </ul>
+	  
+	  </div>
+      
+      <div class="clear"></div>
+      
+      <div style="position:absolute; left:-999px;">
+	 <a href="//athlon1600.top20free.com/" target="_blank"><img src="//www.proxynova.com/images/top20_free.gif" /></a>
+      </div>
+      
+      
+    </div>
+  </div>
+
+</center>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3776441-4']);
+  _gaq.push(['_setDomainName', 'proxynova.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+var addthis_share = {
+    url: "http://www.proxynova.com/"
+}
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50cf8cfd69116d5a"></script>
+
+<script type="text/javascript">
+// adsense and analytics
+window.google_analytics_uacct = "UA-3776441-4";
+
+$(document).ready(function(){
+
+	$(".progress-bar").progressbar();
+	
+	$("html").removeClass("no-js");
+});
+
+</script>
+
+<script type="text/javascript" src="/assets/combine/?f=js/common.js,js/jquery.progressbar.js,js/jquery.cookie.js,js/queue.js,js/nav_menu.js"></script>
+<script type="text/javascript" src="http://www.scapecave.com/javascript/feedback.js"></script>
+
+</body>
+</html>
