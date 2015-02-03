@@ -31,7 +31,8 @@ class Http {
 		'text/css' => 'css',
 		'text/javascript' => 'js',
 		'application/x-javascript' => 'js',
-		'application/javascript' => 'js'
+		'application/javascript' => 'js',
+        	'image/svg+xml' => 'svg'
 	);
 
 	private function send_no_cache(){
