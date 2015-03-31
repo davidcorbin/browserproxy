@@ -23,7 +23,7 @@ $config['unique_urls'] = 0;
 $config['replace_title'] = 'Google Search';
 
 // custom user agent - set it to false or null to use visitor's own user-agent
-$config['user_agent'] = 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)';
+$config['user_agent'] = 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1b3) Gecko/20090305 Firefox/3.1b3 GTB5';
 
 // which ip address to use when making a request?
 //$config['ip_addr'] = false;//'';
